@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnnycase
 - 👀 I’m interested in technical writing and web development.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any projects that need documentation.
 - 📫 How to reach me johneverettcase@gmail.com
 
